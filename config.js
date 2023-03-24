@@ -43,7 +43,7 @@ global.packname = "alizin domina - @hackzinhox" //// < NÃO MUDE NADA AKI, CASO 
 global.packname2 = `#Teamduda - by alizin`//// < NÃO MUDE NADA AKI, CASO NÃO QUERIA ERROS.
 //-------------------------------------//-------------------------------------
 //-------------------------------------//-------------------------------------
-global.author = "𝐀𝐥𝐢𝐳𝐢𝐧 𝐝𝐞𝐯 🙅🏾‍♂️ " //NOME DA FIGURINHAS. ( MUDE SE QUISER )...
+global.author = "TZ " //NOME DA FIGURINHAS. ( MUDE SE QUISER )...
 //-------------------------------------//-------------------------------------
 //-------------------------------------//-------------------------------------
 global.sessionName = "QR-DA-DUDA-BOT" //// < NÃO MUDE NADA AKI, CASO NÃO QUERIA ERROS.
